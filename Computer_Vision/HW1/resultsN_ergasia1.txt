@@ -1,0 +1,28 @@
+We have 24 objects in total. 8 of them are touching the boundaries of the image so they are taged
+as invalid and thus we are left with 16 valid objects.
+the item numbered 0 has 4765 total pixel area
+the item numbered 1 has 4394 total pixel area
+the item numbered 2 has 5134 total pixel area
+the item numbered 3 has 3972 total pixel area
+the item numbered 4 has 4563 total pixel area
+the item numbered 5 has 4898 total pixel area
+the item numbered 6 has 4968 total pixel area
+the item numbered 7 has 4926 total pixel area
+the item numbered 8 has 4746 total pixel area
+the item numbered 9 has 4829 total pixel area
+the item numbered 10 has 5215 total pixel area
+the item numbered 11 has 4903 total pixel area
+the item numbered 12 has 4742 total pixel area
+the item numbered 13 has 4687 total pixel area
+the item numbered 14 has 5107 total pixel area
+the item numbered 15 has 4838 total pixel area
+table creted
+give me a num between 0, 15 or -1 to exit  0
+the median gray pixel value of object 0 is 87.44244691119691
+give me a num between 0, 15 or -1 to exit  5
+the median gray pixel value of object 5 is 95.63173046166969
+give me a num between 0, 15 or -1 to exit  13
+the median gray pixel value of object 13 is 81.6640522875817
+give me a num between 0, 15 or -1 to exit  3
+the median gray pixel value of object 3 is 104.47391304347826
+give me a num between 0, 15 or -1 to exit  -1

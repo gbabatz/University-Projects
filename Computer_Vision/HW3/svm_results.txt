@@ -1,0 +1,124 @@
+Obtaining the labels...
+
+Computing. . .
+kernel type : Linear
+visual words = 10
+accuracy 0.435%
+
+
+Computing. . .
+kernel type : Linear
+visual words = 50
+accuracy 0.694%
+
+
+Computing. . .
+kernel type : Linear
+visual words = 100
+accuracy 0.774%
+
+
+Computing. . .
+kernel type : Linear
+visual words = 200
+accuracy 0.790%
+
+
+Computing. . .
+kernel type : Linear
+visual words = 500
+accuracy 0.774%
+
+
+Computing. . .
+kernel type : Poly
+visual words = 10
+accuracy 0.419%
+
+
+Computing. . .
+kernel type : Poly
+visual words = 50
+accuracy 0.677%
+
+
+Computing. . .
+kernel type : Poly
+visual words = 100
+accuracy 0.742%
+
+
+Computing. . .
+kernel type : Poly
+visual words = 200
+accuracy 0.806%
+
+
+Computing. . .
+kernel type : Poly
+visual words = 500
+accuracy 0.742%
+
+
+Computing. . .
+kernel type : RBF
+visual words = 10
+accuracy 0.339%
+
+
+Computing. . .
+kernel type : RBF
+visual words = 50
+accuracy 0.581%
+
+
+Computing. . .
+kernel type : RBF
+visual words = 100
+accuracy 0.694%
+
+
+Computing. . .
+kernel type : RBF
+visual words = 200
+accuracy 0.758%
+
+
+Computing. . .
+kernel type : RBF
+visual words = 500
+accuracy 0.774%
+
+
+Computing. . .
+kernel type : Sigmoid
+visual words = 10
+accuracy 0.177%
+
+
+Computing. . .
+kernel type : Sigmoid
+visual words = 50
+accuracy 0.177%
+
+
+Computing. . .
+kernel type : Sigmoid
+visual words = 100
+accuracy 0.177%
+
+
+Computing. . .
+kernel type : Sigmoid
+visual words = 200
+accuracy 0.177%
+
+
+Computing. . .
+kernel type : Sigmoid
+visual words = 500
+accuracy 0.177%
+
+
+
+Process finished with exit code 0

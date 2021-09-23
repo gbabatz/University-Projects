@@ -1,0 +1,38 @@
+We have 24 objects in total. 8 of them are touching the boundaries of the image so they are taged
+as invalid and thus we are left with 16 valid objects.
+the item numbered 0 has 4687 total pixel area
+the item numbered 1 has 4407 total pixel area
+the item numbered 2 has 5324 total pixel area
+the item numbered 3 has 4073 total pixel area
+the item numbered 4 has 4517 total pixel area
+the item numbered 5 has 4958 total pixel area
+the item numbered 6 has 4985 total pixel area
+the item numbered 7 has 4946 total pixel area
+the item numbered 8 has 4670 total pixel area
+the item numbered 9 has 4916 total pixel area
+the item numbered 10 has 5387 total pixel area
+the item numbered 11 has 5080 total pixel area
+the item numbered 12 has 4605 total pixel area
+the item numbered 13 has 4662 total pixel area
+the item numbered 14 has 5181 total pixel area
+the item numbered 15 has 4833 total pixel area
+table creted
+give me a num between 0, 15 or -1 to exit  0
+the median gray pixel value of object 0 is 75.52017434620174
+give me a num between 0, 15 or -1 to exit  5
+the median gray pixel value of object 5 is 85.98957016434892
+give me a num between 0, 15 or -1 to exit  13
+the median gray pixel value of object 13 is 69.56577529630718
+give me a num between 0, 15 or -1 to exit  14
+the median gray pixel value of object 14 is 95.49482681061629
+give me a num between 0, 15 or -1 to exit  
+type a number
+give me a num between 0, 15 or -1 to exit  11
+the median gray pixel value of object 11 is 96.9657392026578
+give me a num between 0, 15 or -1 to exit  15
+the median gray pixel value of object 15 is 81.23927465723132
+give me a num between 0, 15 or -1 to exit  16
+wrong input,out of bounds
+give me a num between 0, 15 or -1 to exit  5
+the median gray pixel value of object 5 is 85.98957016434892
+give me a num between 0, 15 or -1 to exit  -1

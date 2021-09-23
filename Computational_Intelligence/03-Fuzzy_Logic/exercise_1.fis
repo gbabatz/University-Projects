@@ -1,0 +1,52 @@
+[System]
+Name='exercise_1'
+Type='mamdani'
+Version=2.0
+NumInputs=2
+NumOutputs=1
+NumRules=12
+AndMethod='min'
+OrMethod='max'
+ImpMethod='min'
+AggMethod='max'
+DefuzzMethod='centroid'
+
+[Input1]
+Name='speed'
+Range=[0 30]
+NumMFs=4
+MF1='slow':'trapmf',[-18 -2 2.259 11.9]
+MF2='fast':'trapmf',[18.7 19.6 30.0162513542795 45.2]
+MF3='avg_low':'trapmf',[4.72477789815818 7.93477789815818 11.5347778981582 14.2347778981582]
+MF4='avg_high':'trapmf',[12 13.6673889490791 18.3 21.1]
+
+[Input2]
+Name='obs_distance'
+Range=[0 10]
+NumMFs=3
+MF1='close':'trapmf',[-3.72752979414951 -0.362949794149512 3.04247020585049 3.62247020585049]
+MF2='median':'trapmf',[1.99891657638136 3.76916576381365 5.63916576381365 7.05916576381365]
+MF3='far':'trapmf',[6.17 8.64 9.97 13.4]
+
+[Output1]
+Name='brake_degree'
+Range=[0 1]
+NumMFs=4
+MF1='low':'trapmf',[-0.36 -0.04 0.103 0.330985915492958]
+MF2='moderate':'trapmf',[0.251 0.325 0.73726977248104 0.81]
+MF3='super_high':'trapmf',[0.976 0.97887323943662 0.996 1.35]
+MF4='high':'trapmf',[0.76 0.767 0.98 1]
+
+[Rules]
+2 1, 3 (1) : 1
+2 2, 3 (1) : 1
+2 3, 3 (1) : 1
+3 1, 3 (1) : 1
+3 2, 4 (1) : 1
+3 3, 2 (1) : 1
+1 1, 4 (1) : 1
+1 2, 2 (1) : 1
+1 3, 1 (1) : 1
+4 1, 3 (1) : 1
+4 2, 3 (1) : 1
+4 3, 4 (1) : 1

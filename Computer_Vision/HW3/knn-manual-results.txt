@@ -1,0 +1,47 @@
+
+Bag of words: 10
+
+nearest neighbors: 5, accuracy: 0.468
+nearest neighbors: 10, accuracy: 0.516
+nearest neighbors: 50, accuracy: 0.581
+nearest neighbors: 100, accuracy: 0.516
+nearest neighbors: 200, accuracy: 0.468
+nearest neighbors: 500, accuracy: 0.242
+
+Bag of words: 50
+
+nearest neighbors: 5, accuracy: 0.565
+nearest neighbors: 10, accuracy: 0.565
+nearest neighbors: 50, accuracy: 0.500
+nearest neighbors: 100, accuracy: 0.548
+nearest neighbors: 200, accuracy: 0.500
+nearest neighbors: 500, accuracy: 0.210
+
+Bag of words: 100
+
+nearest neighbors: 5, accuracy: 0.532
+nearest neighbors: 10, accuracy: 0.548
+nearest neighbors: 50, accuracy: 0.581
+nearest neighbors: 100, accuracy: 0.548
+nearest neighbors: 200, accuracy: 0.532
+nearest neighbors: 500, accuracy: 0.177
+
+Bag of words: 200
+
+nearest neighbors: 5, accuracy: 0.435
+nearest neighbors: 10, accuracy: 0.419
+nearest neighbors: 50, accuracy: 0.516
+nearest neighbors: 100, accuracy: 0.548
+nearest neighbors: 200, accuracy: 0.500
+nearest neighbors: 500, accuracy: 0.177
+
+Bag of words: 500
+
+nearest neighbors: 5, accuracy: 0.323
+nearest neighbors: 10, accuracy: 0.355
+nearest neighbors: 50, accuracy: 0.371
+nearest neighbors: 100, accuracy: 0.419
+nearest neighbors: 200, accuracy: 0.500
+nearest neighbors: 500, accuracy: 0.177
+
+Process finished with exit code 0
