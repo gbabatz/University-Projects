@@ -40,7 +40,7 @@ Many of the programs, if not all, are evaluated with a testbench.
   - Exercise 1:
     - A theoretical exercise so its not included here.
   - Exercise 2:
-    - The module performs a filtering operation with the help of 1D kernel. Identify the reason that restricts the reduction the module's initiation interval (II). Exploit the memory access patrt in order to achieve better II. achieved with the implementation of a circular buffer.   
+    - The module performs a filtering operation with the help of 1D kernel. Identify the reason that restricts the reduction the module's initiation interval (II). Exploit the memory access pattern in order to achieve better II. achieved with the implementation of a circular buffer.   
     
 
 ## Task Final, a mid scaled module as the final task of the semester.
